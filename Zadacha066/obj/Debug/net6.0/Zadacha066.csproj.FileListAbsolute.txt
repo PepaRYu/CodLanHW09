@@ -1,0 +1,15 @@
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/bin/Debug/net6.0/Zadacha066
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/bin/Debug/net6.0/Zadacha066.deps.json
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/bin/Debug/net6.0/Zadacha066.runtimeconfig.json
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/bin/Debug/net6.0/Zadacha066.dll
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/bin/Debug/net6.0/Zadacha066.pdb
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.csproj.AssemblyReference.cache
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.AssemblyInfoInputs.cache
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.AssemblyInfo.cs
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.csproj.CoreCompileInputs.cache
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.dll
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/refint/Zadacha066.dll
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.pdb
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/Zadacha066.genruntimeconfig.cache
+/Users/ruslanpepa/GeekBrains/HW09_C#/Zadacha066/obj/Debug/net6.0/ref/Zadacha066.dll
